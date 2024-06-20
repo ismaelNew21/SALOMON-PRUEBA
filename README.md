@@ -1,5 +1,7 @@
 <h1>SISTEMA DE REGISTRO</h1>
 
 - ESTADO DEL PROYECTO EN CONSTRUCCION.
-- MEJORAMIENTO DE LAS LINEAS
-- HABILITACION DE FILPS
+
+para ejecutar el sistema debes poner:
+
+''' npm install react '''
