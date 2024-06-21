@@ -6,4 +6,4 @@ para ejecutar el sistema debes poner:
 
 ''' npm install react '''
 
-salomon sanazo
+SISTEMA DE REGISTRO 2
